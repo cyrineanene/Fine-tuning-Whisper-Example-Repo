@@ -1,0 +1,1 @@
+For this project, we will be using the train-00000 and validation-00000 from the following dataset: https://huggingface.co/datasets/jlvdoorn/atco2-asr-atcosim/tree/main/data
