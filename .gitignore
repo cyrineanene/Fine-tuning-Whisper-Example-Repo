@@ -194,3 +194,5 @@ cython_debug/
 .cursorindexingignore
 
 dataset/
+translated_dataset_fr.csv 
+#the dataset is too large to be included in the repository, 20.4Gb 
